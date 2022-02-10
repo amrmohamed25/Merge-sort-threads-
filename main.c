@@ -156,7 +156,7 @@ int main(int argc,char** argv)
 
     printArray(array,numberOfElements);
     FILE * pFile;
-    pFile=fopen("6304_output.txt", "w");
+    pFile=fopen("output.txt", "w");
     if(pFile!=NULL)
     {
         fprintf(pFile,"Sorted array: ");
