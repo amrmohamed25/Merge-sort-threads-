@@ -12,6 +12,7 @@ The program should read two input matrices from a file in the following format:
 [number of elements]
 Array elements which are space separated.
 example input:
+
 10
 
 100 20 15 3 4 8 7 -1 0 33
